@@ -48,7 +48,6 @@ header div a:hover {
     line-height: 34px;
     font-weight: normal;
     margin-top: 8px;
-    opacity: 0.8;
     color: white;
 }
 #box p {
@@ -57,4 +56,5 @@ header div a:hover {
     font-size: 24px;
     line-height: 34px;
     color: white;
+    opacity: 0.8;
 }
